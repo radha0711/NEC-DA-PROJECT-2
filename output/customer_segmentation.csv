@@ -1,0 +1,11 @@
+CustomerID,Name,Gender,Age,Annual_Income,Spending_Score,Cluster
+1,Raj Kumar,Male,22,450000,81,3
+2,Priya Sharma,Female,25,620000,77,3
+3,Karan Verma,Male,35,800000,40,2
+4,Anjali Gupta,Female,28,550000,76,0
+5,Rahul Reddy,Male,40,1200000,20,1
+6,Sneha Patel,Female,32,950000,45,2
+7,Arjun Singh,Male,27,700000,60,0
+8,Meera Nair,Female,24,480000,82,3
+9,Vikram Rao,Male,38,1400000,15,1
+10,Kavya Das,Female,29,650000,70,0
